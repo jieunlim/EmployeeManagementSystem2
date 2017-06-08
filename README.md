@@ -5,7 +5,7 @@
 
 ##Background
 
-    Manage employee information. Add, update, delete function.
+    Manage employees' information with add, update, delete function.
     After I made it with Java, I changed it with Python
 
 ##Objective
